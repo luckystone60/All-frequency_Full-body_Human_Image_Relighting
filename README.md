@@ -139,9 +139,9 @@ Please cite our paper if you find the code useful:
                Yuki Endo},
   title     = {All-frequency Full-body Human Image Relighting},
   journal   = {Computer Graphics Forum (Proc. of Eurographics 2025)},
-  volume    = {},
-  number    = {},
-  pages     = {--},
+  volume    = {44},
+  number    = {2},
+  pages     = {e70007},
   year      = {2025}
 }
 ```
